@@ -35,7 +35,7 @@ Processes images in PDFs using OCR and extracts meaningful text for search and r
 ### 3. Multiple PDF RAG Application
 Extracts data from multiple PDFs. If text is not found, OCR is used to extract it from images, followed by embedding creation.
 
-![Multiple PDF RAG](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/multiple_pdf_image.png)
+![Multiple PDF RAG](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/blob/main/pdf/Screenshot%202024-06-08%20170604.png?raw=true)
 
 ### 4. Web URL RAG
 Supports URL-based searches for document retrieval and response generation.
