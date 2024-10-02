@@ -26,10 +26,11 @@ A text-based search interface for querying user-uploaded documents.
 
 ![Text Input Interface](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/text_input_image.png)
 
-### 2. Image-to-Text RAG
+### 2. Image-to-Text RAG using vision
 Processes images in PDFs using OCR and extracts meaningful text for search and response generation.
 
 ![Image to Text RAG](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/blob/main/pdf/Screenshot%202024-06-05%20231627.png?raw=true)
+![Image to Text RAG](![Image to Text RAG](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/blob/main/pdf/Screenshot%202024-06-05%20231627.png?raw=true))
 
 
 ### 3. Multiple PDF RAG Application
