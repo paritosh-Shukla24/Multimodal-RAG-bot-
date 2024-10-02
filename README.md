@@ -24,7 +24,7 @@ This repository contains the code for a **Streamlit application** that leverages
 ### 1. Text Input RAG
 A text-based search interface for querying user-uploaded documents.
 
-![Text Input Interface]()
+![Text Input Interface](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/blob/main/pdf/Screenshot%202024-06-05%20224904.png)
 
 ### 2. Image-to-Text RAG using vision
 Processes images in PDFs using OCR and extracts meaningful text for search and response generation.
