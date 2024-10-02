@@ -38,7 +38,8 @@ Extracts data from multiple PDFs. If text is not found, OCR is used to extract i
 ![Multiple PDF RAG](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/blob/main/pdf/Screenshot%202024-06-08%20170604.png?raw=true)
 ### OCR for Images in PDF
 ![Multiple PDF RAG](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/blob/main/pdf/Screenshot%202024-06-05%20232333.png?raw=true)
-
+### RAG from HandWritten Noted After OCR
+![Multiple PDF RAG](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/blob/main/pdf/Screenshot%202024-06-05%20232903.png?raw=true)
 ### 4. Web URL RAG
 Supports URL-based searches for document retrieval and response generation.
 
