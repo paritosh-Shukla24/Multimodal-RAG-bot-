@@ -29,7 +29,7 @@ A text-based search interface for querying user-uploaded documents.
 ### 2. Image-to-Text RAG
 Processes images in PDFs using OCR and extracts meaningful text for search and response generation.
 
-![Image to Text RAG](https://github.com/paritosh-Shukla24/Multimodal-RAG-bot-/image_to_text_image.png)
+![Image to Text RAG](pdf/Screenshot 2024-06-05 231627.png)
 
 ### 3. Multiple PDF RAG Application
 Extracts data from multiple PDFs. If text is not found, OCR is used to extract it from images, followed by embedding creation.
